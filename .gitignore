@@ -2,3 +2,6 @@
 
 
 *.script
+/test-git-ignore/
+.prabin*
+!.prabin.txt
